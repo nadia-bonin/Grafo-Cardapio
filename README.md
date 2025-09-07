@@ -1,4 +1,4 @@
-# CARDAPIO PERSONALIZADO
+# CARDÁPIO PERSONALIZADO
 
 **Autor**: Nádia Bonin.
 **Data final**: 11/06/2025
