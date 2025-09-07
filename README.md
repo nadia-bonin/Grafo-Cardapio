@@ -8,11 +8,11 @@
 Este projeto propõe a modelagem de um sistema de geração de cardápios personalizados utilizando grafos. A proposta considera as restrições alimentares de um grupo de pessoas como vegetarianismo, veganismo, intolerância à lactose, doença celíaca, diabetes e alergias alimentares, e utiliza grafos para representar a compatibilidade entre ingredientes. A partir disso, algoritmos de busca são empregados para gerar combinações válidas de ingredientes que formam cardápios seguros para todos os membros do grupo.
 
 ## Objetivos
--✅	Compreender e aplicar representações de grafos: matriz e lista de adjacência.
--✅	Utilizar algoritmos de busca em profundidade (DFS) para exploração do grafo.
--✅	Desenvolver uma aplicação que modele um problema real com grafos.
--✅	Avaliar a eficiência e validade das combinações geradas.
--✅	Desenvolver uma interface simples em terminal para entrada de dados e visualização de resultados.
+-	Compreender e aplicar representações de grafos: matriz e lista de adjacência. ✅
+-	Utilizar algoritmos de busca em profundidade (DFS) para exploração do grafo. ✅
+-	Desenvolver uma aplicação que modele um problema real com grafos. ✅
+-	Avaliar a eficiência e validade das combinações geradas. ✅
+-	Desenvolver uma interface simples em terminal para entrada de dados e visualização de resultados. ✅
 
 ## Logica aplicada
 -	Vértices: ingredientes disponíveis (17 ao total).
