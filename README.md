@@ -19,8 +19,8 @@ Este projeto propõe a modelagem de um sistema de geração de cardápios person
 -	Arestas: são criadas entre dois ingredientes se ambos forem permitidos a todas as pessoas do grupo.
 -	Tipo: grafo não-direcionado e não ponderado.
 -	Implementações:
- -	Matriz de adjacência matrizadj[MAXI][MAXI] para conexões diretas.
- -	Lista de adjacência listaadj[MAXI] para eficiência na DFS.
+ -	Matriz de adjacência para conexões diretas.
+ -	Lista de adjacência para eficiência na DFS.
 
 ## Busca
 DFS (Depth First Search),	O algoritmo marca os ingredientes visitados para evitar ciclos,	a cada caminho válido de tamanho n, o sistema imprime a combinação (cardápio).
